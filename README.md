@@ -10,3 +10,6 @@ git commit -m " "
 git push 
 
 I learned that git is different than github. Git is one of one. Github is one of many. Git is the tool that manages the files repos, Github is a online platform for hosting your Git projects.
+
+
+I like strawberry icecream.
